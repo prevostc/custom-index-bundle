@@ -1,5 +1,5 @@
 {
-    "name": "intaro/custom-index-bundle",
+    "name": "prevostc/custom-index-bundle-zf2",
     "description": "Annotation and command for control entity custom indexes",
     "keywords": ["symfony2", "index", "postgresql-index"],
     "type": "symfony-bundle",
